@@ -11,7 +11,6 @@
     {
       "VSC Token": "keyword.type",
       "VS Token": [
-        "Text Editor Language Service Items&Keyword"
       ]
     },
     {
@@ -4490,6 +4489,119 @@
       "VSC Token": "window.inactiveBorder",
       "VS Token": [
       ]
-    }
+    },
+,
+    {
+      "VSC Token": "type",
+      "VS Token": [
+      ]
+    },
+    {
+      "VSC Token": "struct",
+      "VS Token": [
+      ]
+    },
+    {
+      "VSC Token": "class",
+      "VS Token": [
+        "Cpp Text Editor MEF Items&CppClassTemplateSemanticTokenFormat",
+        "Cpp Text Editor MEF Items&CppTypeSemanticTokenFormat",
+        "Cpp Text Editor MEF Items&CppValueTypeSemanticTokenFormat",
+        "Cpp Text Editor MEF Items&CppGenericTypeSemanticTokenFormat",
+        "Cpp Text Editor MEF Items&CppRefTypeSemanticTokenFormat"
+      ]
+    },
+    {
+      "VSC Token": "interface",
+      "VS Token": [
+      ]
+    },
+    {
+      "VSC Token": "enum",
+      "VS Token": [
+        "Cpp Text Editor MEF Items&CppEnumSemanticTokenFormat"
+      ]
+    },
+    {
+      "VSC Token": "function",
+      "VS Token": [
+        "Cpp Text Editor MEF Items&CppFunctionSemanticTokenFormat",
+        "Cpp Text Editor MEF Items&CppFunctionTemplateSemanticTokenFormat",
+        "Cpp Text Editor MEF Items&CppMemberFunctionSemanticTokenFormat"
+      ]
+    },
+    {
+      "VSC Token": "method",
+      "VS Token": [
+        "Cpp Text Editor MEF Items&CppStaticMemberFunctionSemanticTokenFormat"
+      ]
+    },
+    {
+      "VSC Token": "macro",
+      "VS Token": [
+        "Cpp Text Editor MEF Items&CppMacroSemanticTokenFormat"
+      ]
+    },
+    {
+      "VSC Token": "variable",
+      "VS Token": [
+        "Cpp Text Editor MEF Items&CppLocalVariableSemanticTokenFormat",
+        "Cpp Text Editor MEF Items&CppGlobalVariableSemanticTokenFormat"
+      ]
+    },
+    {
+      "VSC Token": "variable.readonly",
+      "VS Token": [
+      ]
+    },
+    {
+      "VSC Token": "parameter",
+      "VS Token": [
+        "Cpp Text Editor MEF Items&CppParameterSemanticTokenFormat"
+      ]
+    },
+    {
+      "VSC Token": "property",
+      "VS Token": [
+        "Cpp Text Editor MEF Items&CppPropertySemanticTokenFormat",
+        "Cpp Text Editor MEF Items&CppMemberFieldSemanticTokenFormat",
+        "Cpp Text Editor MEF Items&CppStaticMemberFieldSemanticTokenFormat"
+      ]
+    },
+    {
+      "VSC Token": "property.readonly",
+      "VS Token": [
+      ]
+    },
+    {
+      "VSC Token": "enumMember",
+      "VS Token": [
+        "Cpp Text Editor MEF Items&CppEnumSemanticTokenFormat"
+      ]
+    },
+    {
+      "VSC Token": "event",
+      "VS Token": [
+        "Cpp Text Editor MEF Items&CppEventSemanticTokenFormat"
+      ]
+    },
+    {
+      "VSC Token": "newOperator",
+      "VS Token": [
+        "Cpp Text Editor MEF Items&CppNewDeleteSemanticTokenFormat"
+      ]
+    },
+    {
+      "VSC Token": "label",
+      "VS Token": [
+        "Cpp Text Editor MEF Items&CppLabelSemanticTokenFormat"
+      ]
+    },
+    {
+      "VSC Token": "storage.modifier",
+      "VS Token": [
+        "Text Editor Language Service Items&Keyword"
+      ]
+}		
   ]
 }
